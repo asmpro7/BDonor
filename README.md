@@ -87,7 +87,7 @@ It connects blood donors with recipients through a **moderated, admin-verified w
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/BDonor.git
+git clone https://github.com/asmpro7/BDonor.git
 cd BDonor
 pip install -r requirements.txt
 ```
